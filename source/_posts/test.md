@@ -1,37 +1,29 @@
 ---
-title: 测试文章
+title: 这是一篇测试文章
+date: 2022/11/30 18:51
+updated: 2022/11/30 18:58
+categories:
+	- 测试文章
+	- 参照教程的测试文章
+tags:
+	- 测试标签
 ---
 
-上面这个是yaml格式的
+# 这里是第一级标题
+
+## 这里是第二级标题
+
+### 这里是第三级标题
+
+#### 引用块的使用
 
 
 
-# 这是一篇测试文章
-
-## 第二级标题
-
-### 第三级标题
-
-#### 第四级标题
-
-##### 第五级标题
-
-###### 第六级标题
-
-正文
+> Do not just seek happiness for yourself. Seek happiness for all. Through kindness. Through mercy.
+>
+> David Levithan, Wide Awake
 
 
 
-```c++
-cout << hello world << endl;
-return 0
-```
-
-| 第一行第一列 | 第一行第二列 | 第一行第三列 |
-| ------------ | ------------ | ------------ |
-| 第二行第一列 | 第二行第二列 | 第二行第三列 |
-| 第三行第一列 | 第三行第二列 | 第三行第三列 |
-|              |              |              |
-
-
+ 
 
